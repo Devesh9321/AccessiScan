@@ -1,0 +1,25 @@
+{
+  "short_name": "AccessWeb",
+  "name": "Accessibality Checker Web App",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "icons/icon76x76.png",
+      "type": "image/png",
+      "sizes": "76x76"
+    },
+    {
+      "src": "icons/icon83x83.png",
+      "type": "image/png",
+      "sizes": "167x167"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
